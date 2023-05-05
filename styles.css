@@ -1,0 +1,35 @@
+h4{
+    text-align: center;
+    font-size: 20px;
+}
+.card-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.button {
+    color: red;
+}
+
+
+
+.photo {
+    width: 5rem;
+}
+
+.picture{
+
+    height:200px;
+    width:150px;
+  }
+p{
+    text-align: center;
+}
+/* img {
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+  }  */
